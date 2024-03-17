@@ -1,6 +1,6 @@
 body {
   background: #11a178;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: monospace;
 }
 
 a {
@@ -18,7 +18,7 @@ a {
 }
 
 header {
-  border-bottom: 1px solid #035741;
+  border-bottom: 1px solid #35e7b7;
   padding-bottom: 30px;
 }
 
@@ -91,7 +91,7 @@ main {
 }
 
 footer {
-  border-top: 1px solid #f9f7fe;
+  border-top: 1px solid #123535;
   text-align: center;
   padding-top: 15px;
 
