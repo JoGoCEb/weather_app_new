@@ -1,6 +1,6 @@
 body {
   background: #11a178;
-  font-family: "Roboto", sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a {
@@ -18,7 +18,7 @@ a {
 }
 
 header {
-  border-bottom: 1px solid #132aac;
+  border-bottom: 1px solid #035741;
   padding-bottom: 30px;
 }
 
@@ -35,7 +35,7 @@ header {
 .search-form-button {
   margin-left: 5px;
   font-size: 16px;
-  background-color: #044042;
+  background-color: #14a1a6;
   color: white;
   border: none;
   padding: 20px;
