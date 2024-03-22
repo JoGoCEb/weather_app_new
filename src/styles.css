@@ -18,7 +18,8 @@ a {
   margin: 60px auto;
   margin-right: 40px;
   padding: 30px;
-  border-radius: 10px;
+  border-color: #352e12;
+  border-radius: 20px;
   box-shadow: 0 30px 50px rgba(37, 35, 26, 0.08);
   padding: 30px;
 }
