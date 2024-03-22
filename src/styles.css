@@ -42,7 +42,7 @@ header {
 .search-form-button {
   margin-left: 5px;
   font-size: 16px;
-  background-color: #c89864;
+  background-color: #7e603f;
   color: white;
   border: none;
   padding: 20px;
@@ -120,7 +120,7 @@ main {
 }
 .weather-forecast-temperatures {
   text-align: center;
-  color: #c89864;
+  color: #7e603f;
   margin-top: 10px;
   display: flex;
   justify-content: center;
