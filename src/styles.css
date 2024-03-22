@@ -1,7 +1,10 @@
 body {
-  background: #11a178;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  background-image: url("/Users/johannagodoyceballos/Downloads/_6rYaHRv 2/matthew-henry-2Ts5HnA67k8-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 a {
