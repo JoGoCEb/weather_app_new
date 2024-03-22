@@ -110,23 +110,23 @@ main {
   color: rgba(39, 33, 66, 0.4);
   font-size: 16px;
   line-height: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .weather-forecast-icon {
-  font-size: 38px;
+  font-size: 30px;
   text-align: center;
 }
 .weather-forecast-temperatures {
   text-align: center;
-  color: #f65282;
+  color: #c89864;
   margin-top: 10px;
   display: flex;
   justify-content: center;
 }
 
 .weather-forecast-temperature {
-  padding: 0 10px;
+  padding: 0 5px;
 }
 
 footer {
