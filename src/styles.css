@@ -13,7 +13,7 @@ a {
 }
 
 .weather-app {
-  background: rgb(215, 205, 195);
+  background: rgb(226, 211, 185);
   max-width: 600px;
   margin: 60px auto;
   margin-right: 40px;
@@ -84,12 +84,12 @@ main {
 }
 
 .weather-app-icon {
-  width: 88px;
-  height: 88px;
+  width: 80px;
+  height: 80px;
 }
 
 .weather-app-temperature {
-  font-size: 80px;
+  font-size: 74px;
   line-height: 80px;
   font-weight: bold;
 }
@@ -107,7 +107,7 @@ main {
 
 .weather-forecast-date {
   text-align: center;
-  color: rgba(39, 33, 66, 0.4);
+  color: #352e12;
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 5px;
