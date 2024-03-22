@@ -116,7 +116,7 @@ main {
 .weather-forecast-icon {
   font-size: 30px;
   text-align: center;
-  padding: 0;
+  padding: 0px;
 }
 .weather-forecast-temperatures {
   text-align: center;
