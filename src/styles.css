@@ -57,7 +57,7 @@ main {
 .weather-app-data {
   display: flex;
   justify-content: space-between;
-  font-size: 48px;
+  font-size: 36px;
   color: #352e12;
 }
 
@@ -134,6 +134,7 @@ footer {
   border-top: 1px solid #352e12;
   text-align: center;
   padding-top: 25px;
+  font-size: 14px;
 
   color: #352e12;
 }
